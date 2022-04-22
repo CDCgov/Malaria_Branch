@@ -2,6 +2,8 @@
 ## Overview
 This repository contains tools developed in conjunction with the study protocol “Assessment of Malaria Case Management in Health Facility Surveys”.  The survey is designed to be used in malaria-endemic areas to assess health facility readiness to treat malaria, health care provider knowledge and attitudes pertaining to malaria case management, health care provider compliance with national treatment guidelines, and key parasite molecular characteristics.  to complete health facility surveys  designed with the goal to assess malairia case management in endemic areas. These tools are generic general starting points and can be modified as needed for country/area-specific contexts. See the published protocol for more information.
 
+For CDC Review: Paper versions of questions cleared as part of a publication, eClearance ID: 0900f3eb81d8d356; Accession Number: CGH-SI-7/27/21-8d356.
+
 ## How to Use
 There are five data collection tools available in ODK-readable .xlsx files. These files can be used as data collection tools to gather information from/about the heads of health facilities (headofHF_generic.xlsx), healthcare workers (health_care_worker_generic.xlsx), patient participants (exitinterview_generic.xlsx), malaria commodity stocks (inventory_generic.xlsx), and health facilities registers (register_generic.xlsx). When used with digital data collection software based on ODK, such as Survey CTO or KoboToolbox, these files encode survey questions (available in English, French, and Portuguese), appropriate skip patterns, data entry restrictions, and variable names. 
 
