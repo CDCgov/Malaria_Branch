@@ -1,8 +1,11 @@
-# Malaria Health Facility Surveys
-## Overview
-This repository contains tools developed in conjunction with the study protocol “Assessment of Malaria Case Management in Health Facility Surveys”.  The survey is designed to be used in malaria-endemic areas to assess health facility readiness to treat malaria, health care provider knowledge and attitudes pertaining to malaria case management, health care provider compliance with national treatment guidelines, and key parasite molecular characteristics.  to complete health facility surveys  designed with the goal to assess malairia case management in endemic areas. These tools are generic general starting points and can be modified as needed for country/area-specific contexts. See the published protocol for more information.
+# Malaria_Branch Repository
+This repository contains tools developed for activities routinely performed in malaria-endemic countries in inform programmatic decisions. These are broadly divided into therapeutic efficacy studies (TES folder) and health facility surveys (HFS folder).
 
-## How to Use
+## Malaria Health Facility Surveys (HFS)
+### Overview
+This folder contains tools developed in conjunction with the study protocol “Assessment of Malaria Case Management in Health Facility Surveys”.  The survey is designed to be used in malaria-endemic areas to assess health facility readiness to treat malaria, health care provider knowledge and attitudes pertaining to malaria case management, health care provider compliance with national treatment guidelines, and key parasite molecular characteristics.   These tools are generic general starting points and can be modified as needed for country/area-specific contexts. See the published protocol for more information.
+
+### How to Use
 There are five data collection tools available in ODK-readable .xlsx files. These files can be used as data collection tools to gather information from/about the heads of health facilities (headofHF_generic.xlsx), healthcare workers (health_care_worker_generic.xlsx), patient participants (exitinterview_generic.xlsx), malaria commodity stocks (inventory_generic.xlsx), and health facilities registers (register_generic.xlsx). When used with digital data collection software based on ODK, such as Survey CTO or KoboToolbox, these files encode survey questions (available in English, French, and Portuguese), appropriate skip patterns, data entry restrictions, and variable names. 
 
 To download, click the link for the desired survey above and the download button that appears in the upper right corner in the screen that follows. 
@@ -18,7 +21,7 @@ Questions and comments can be directed to Dean Sayre at omp2@cdc.gov
 
  ## Public Domain Standard Notice
 This repository constitutes a work of the United States Government and is not subject to domestic copyright protection under 17 USC § 105. This repository is in the public domain within the United States, and copyright and related rights in the work worldwide are waived through the CC0 1.0 Universal public domain dedication. All contributions to this repository will be released under the CC0 dedication. By submitting a pull request you are agreeing to comply with this waiver of copyright interest.
-## License Standard Notice
+### License Standard Notice
 The repository utilizes code licensed under the terms of the Apache Software License and therefore is licensed under ASL v2 or later.
 This source code in this repository is free: you can redistribute it and/or modify it under the terms of the Apache Software License version 2, or (at your option) any later version.
 This source code in this repository is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the Apache Software License for more details.
